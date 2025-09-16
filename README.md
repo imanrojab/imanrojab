@@ -7,8 +7,7 @@
 <div align="center">
   
   [![HackerOne](https://img.shields.io/badge/-HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/rojab)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rojab)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rojab)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rojab](https://www.linkedin.com/in/iman-rojab-b86117277/))
   
 </div>
 
@@ -37,14 +36,11 @@ I'm a security researcher focused on finding high-impact vulnerabilities in web 
 
 | Vulnerability Type | Expertise Level | Impact |
 |-------------------|-----------------|---------|
-| **IDOR (Insecure Direct Object Reference)** | ⭐⭐⭐⭐⭐ | Critical |
-| **Privilege Escalation** | ⭐⭐⭐⭐⭐ | Critical |
-| **Business Logic Errors** | ⭐⭐⭐⭐⭐ | High-Critical |
-| **Improper Access Control** | ⭐⭐⭐⭐⭐ | High-Critical |
-| **Authentication Bypass** | ⭐⭐⭐⭐ | Critical |
-| **Authorization Flaws** | ⭐⭐⭐⭐ | High |
-| **API Security** | ⭐⭐⭐⭐ | High |
-| **SSRF** | ⭐⭐⭐ | Medium-High |
+| **IDOR (Insecure Direct Object Reference)** | ⭐⭐⭐⭐| Medium-High |
+| **Privilege Escalation** | ⭐⭐⭐ | Medium-High |
+| **Business Logic Errors** | ⭐⭐⭐ | Medium-High |
+| **Improper Access Control** | ⭐⭐⭐ | Medium-High |
+
 
 </div>
 
@@ -140,15 +136,15 @@ graph TD
 
 ### 📝 Featured Vulnerability Discoveries
 
-1. **[IDOR to Account Takeover in Major Social Platform]**
+1. **[IDOR to View Personal Infromation]**
    - Impact: Access to millions of user accounts
-   - Bounty: $XX,XXX
-   - Severity: Critical
+   - Bounty: $X,XXX
+   - Severity: High
 
 2. **[Privilege Escalation via Business Logic Flaw]**
    - Impact: Regular user to admin access
    - Bounty: $X,XXX
-   - Severity: Critical
+   - Severity: High
 
 3. **[Access Control Bypass in Enterprise SaaS]**
    - Impact: Unauthorized data access across tenants
